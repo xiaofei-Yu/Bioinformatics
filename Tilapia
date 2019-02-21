@@ -1,0 +1,1 @@
+plink2 --bfile test2064_3 --pca 10 --allow-extra-chr --out qcvcf
